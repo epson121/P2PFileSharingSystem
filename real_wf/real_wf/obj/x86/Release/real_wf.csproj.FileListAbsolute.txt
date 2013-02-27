@@ -1,0 +1,24 @@
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\bin\Release\real_wf.exe.config
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\bin\Release\real_wf.exe
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\bin\Release\real_wf.pdb
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Release\real_wf.frmDataGrid.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Release\real_wf.frmLogin.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Release\real_wf.frmMain.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Release\real_wf.Properties.Resources.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Release\real_wf.exe
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Release\real_wf.pdb
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\bin\Release\real_wf.exe.config
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Release\real_wf.exe
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Release\real_wf.pdb
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Release\real_wf.frmDataGrid.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Release\real_wf.frmLogin.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Release\real_wf.frmMain.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Release\real_wf.Properties.Resources.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\bin\Release\real_wf.exe
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\bin\Release\real_wf.pdb

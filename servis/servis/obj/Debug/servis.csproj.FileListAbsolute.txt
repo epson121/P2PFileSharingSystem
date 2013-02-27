@@ -1,0 +1,10 @@
+C:\Users\Luka\Desktop\c# projects\Zavrsni\servis\servis\bin\servis.dll
+C:\Users\Luka\Desktop\c# projects\Zavrsni\servis\servis\bin\servis.pdb
+C:\Users\Luka\Desktop\c# projects\Zavrsni\servis\servis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\c# projects\Zavrsni\servis\servis\obj\Debug\servis.dll
+C:\Users\Luka\Desktop\c# projects\Zavrsni\servis\servis\obj\Debug\servis.pdb
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\servis\servis\bin\servis.dll
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\servis\servis\bin\servis.pdb
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\servis\servis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\servis\servis\obj\Debug\servis.dll
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\servis\servis\obj\Debug\servis.pdb

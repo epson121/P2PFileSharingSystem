@@ -1,0 +1,48 @@
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\bin\Debug\real_wf.exe.config
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\bin\Debug\real_wf.exe
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\bin\Debug\real_wf.pdb
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\obj\x86\Debug\real_wf.Form1.resources
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\obj\x86\Debug\real_wf.Properties.Resources.resources
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\obj\x86\Debug\ResGen.read.1.tlog
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\obj\x86\Debug\ResGen.write.1.tlog
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\obj\x86\Debug\real_wf.exe
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\obj\x86\Debug\real_wf.pdb
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\obj\x86\Debug\real_wf.dataGrid.resources
+C:\inetpub\wwwroot\WCF\real_wf\real_wf\real_wf\obj\x86\Debug\real_wf.Main.resources
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\bin\Debug\real_wf.exe.config
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.exe
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.pdb
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\bin\Debug\real_wf.exe
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\bin\Debug\real_wf.pdb
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.Properties.Resources.resources
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.frmDataGrid.resources
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.frmLogin.resources
+C:\Users\Luka\Desktop\c# projects\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.frmMain.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\bin\Debug\real_wf.exe.config
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.exe
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.pdb
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\bin\Debug\real_wf.exe
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\bin\Debug\real_wf.pdb
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.frmDataGrid.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.frmLogin.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.frmMain.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Debug\real_wf.Properties.Resources.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Luka\Desktop\c# projects_\Zavrsni\real_wf\real_wf\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\bin\Debug\real_wf.exe.config
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Debug\real_wf.exe
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Debug\real_wf.pdb
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\bin\Debug\real_wf.exe
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\bin\Debug\real_wf.pdb
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Debug\real_wf.frmDataGrid.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Debug\real_wf.frmLogin.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Debug\real_wf.frmMain.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Debug\real_wf.Properties.Resources.resources
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Luka\Desktop\c# projects_\Zavrsni - Copy\real_wf\real_wf\obj\x86\Debug\ResGen.write.1.tlog
